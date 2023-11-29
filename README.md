@@ -26,8 +26,7 @@ print("{:.2f}".format(d))
 
 ```
 ### OUTPUT:
-![Alt text](<Screenshot 2023-11-28 201021.png>)
-
-
+![Screenshot 2023-11-28 201021](https://github.com/jyesvanthe/DISTANCE-BETWEEN-TWO-POINTS/assets/150319392/ed847c28-f99e-40c5-88d2-a76a82ded0d1)
 
 ### RESULT:
+Distance between 2points is found and executed successfully.
